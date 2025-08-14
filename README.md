@@ -9,8 +9,3 @@ Esse algoritmo foi desenvolvido para Python, sem o uso de bibliotecas externas, 
 Resumidamente a infraestrutura de dados veem de um arquivo ".txt", em que no mesmo indica a seguinte linha exeplo: ["número do onibûs/linha",("entrada de passageiros") ':' ("saida de passageiros")]  
 
 Fluxograma (13/08)
-
-1° - O algoritmo tem como inicio uma função 'with' para abrir o arquivo com as seguintes informações: Número da linha, n° de vezes em que ela é executado, entradas e saídas de passageiros.
-2° - A proxima função ira separar dentro de vetores, usando um 'loop', o número da linha com passageiros e paradas com entra e saídas.
-3 ° - Outra funcição vai classificar por horários o fluxo de uso da linha/onibûs retornando como porcentagem.
-4° - 
