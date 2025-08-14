@@ -1,6 +1,10 @@
 Algoritmo: contador_passageiros
 
-Algoritmo que calcule a quantidade de usuários que circulam no ônibus com mais de uma linha por viagens, realizadas nos horários de pico, mostra a porcentagem de lotação, quantidade de usúarios tudo isso sendo exibido em tela.
+Este algoritmo calcula a quantidade de usuários que circulam em ônibus com mais de uma linha por viagem, realizadas nos horários de pico. Ele exibe em tela:
+
+A porcentagem de lotação
+A quantidade total de usuários
+Informações úteis para análise de fluxo
 
 Sua finalidade seria de auxiliar, junto a um kit de cameras e "swith", na interpretação de dados pelos quais indicam os usos mais e menos frequentes, linhas de onubûs defasadas, horários inutilizados entre outros. 
 
@@ -9,3 +13,4 @@ Esse algoritmo foi desenvolvido para Python, sem o uso de bibliotecas externas, 
 Resumidamente a infraestrutura de dados veem de um arquivo ".txt", em que no mesmo indica a seguinte linha exeplo: ["número do onibûs/linha",("entrada de passageiros") ':' ("saida de passageiros")]  
 
 Fluxograma (13/08)
+![Alt text](https://github.com/Vitor-ALucn/contador_passageiros/blob/main/README.md).
