@@ -13,4 +13,4 @@ Esse algoritmo foi desenvolvido para Python, sem o uso de bibliotecas externas, 
 Resumidamente a infraestrutura de dados veem de um arquivo ".txt", em que no mesmo indica a seguinte linha exeplo: ["número do onibûs/linha",("entrada de passageiros") ':' ("saida de passageiros")]  
 
 Fluxograma (13/08)
-![Alt text](https://github.com/Vitor-ALucn/contador_passageiros).
+![Alt text](https://github.com/Vitor-ALucn/contador_passageiros/blob/main/Contador%20de%20Passageiros.jpeg).
