@@ -10,6 +10,8 @@ Sua finalidade seria de auxiliar, junto a um kit de cameras e "swith", na interp
 
 Esse algoritmo foi desenvolvido para Python, sem o uso de bibliotecas externas, o proprio detecta um arquivo ja com nome especifico para interpretar os dados que, de acordo com o cliente, são levantados pelas cameras dos onibus, a 'IDE' utilizida foi o programa Visual Code.
 
+Abra o projeto no Visl Studio Code: coloque o arquivo .csv na raiz do projeto (com o nome esperado pelo script) clicando com o botão direito do mouse e ir em "Abrir com o VSCode" selecionando o arquivo main.py junto . 
+
 Resumidamente a infraestrutura de dados veem de um arquivo ".txt", em que no mesmo indica a seguinte linha exeplo: "número do onibûs/linha",("entrada de passageiros") ':' ("saida de passageiros")  
 
 Fluxograma (13/08)
