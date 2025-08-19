@@ -15,7 +15,7 @@ Resumidamente a infraestrutura de dados veem de um arquivo ".csv", em que no mes
 Possui dentro do algoritmo uma função "def" que analiza o arquivo, redigita as linhas com os dados de maneira em que o programa consiga interpretar, possui também mensgens de avisos para informar o usuário a falta de sucesso com o arquivo.
 
 Fluxograma (13/08):
-![Alt text](https://github.com/Vitor-ALucn/contador_passageiros/blob/main/Contador%20de%20Passageiros.png).
+![Alt text](https://github.com/Vitor-ALucn/contador_passageiros/blob/main/Contador%20de%20Passageiros.png)
 
 Código-fonte (18/08):
 
