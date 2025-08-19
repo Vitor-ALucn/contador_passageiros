@@ -19,7 +19,7 @@ Fluxograma (13/08):
 
 Código-fonte (18/08):
 
-from collections import defaultdict
+    from collections import defaultdict
 
     def analisar_dados_onibus():
     try:
