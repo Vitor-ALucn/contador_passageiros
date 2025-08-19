@@ -21,7 +21,7 @@ Código-fonte (18/08):
 
 from collections import defaultdict
 
-def analisar_dados_onibus():
+    def analisar_dados_onibus():
     try:
         with open('out.csv', 'r', encoding='utf-8') as arquivo:
             linhas = arquivo.readlines()
@@ -102,6 +102,6 @@ def analisar_dados_onibus():
     print(f"\nLINHA MENOS UTILIZADA:\nLinha {linha_menos_utilizada['linha']} - {linha_menos_utilizada['numero_paradas']} paradas")
     print(f"\nCAPACIDADE MÁXIMA DOS ÔNIBUS: {capacidade_maxima} passageiros")
 
-# Executar
-if __name__ == "__main__":
+    # Executar
+    if __name__ == "__main__":
     analisar_dados_onibus()
