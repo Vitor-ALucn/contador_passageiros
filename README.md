@@ -118,6 +118,6 @@ Possui dentro do algoritmo uma função "def" que analiza o arquivo, redigita as
     if __name__ == "__main__":
     analisar_dados_onibus()
 
-Autoria de Vitor Augusto L.
-Software do fluxograma: lucid.app
+Autoria de Vitor Augusto L. ]|[
+Software do fluxograma: lucid.app ]|[
 Software da apresentação(.pdf): Canva.com
