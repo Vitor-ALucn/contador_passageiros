@@ -1,4 +1,3 @@
-import csv
 from collections import defaultdict #É como um dicionário normal, mas quando você acessa uma chave que não existe, 
                                     #ele cria automaticamente um valor padrão
 
