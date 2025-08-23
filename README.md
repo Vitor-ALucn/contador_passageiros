@@ -18,8 +18,8 @@ Resumidamente a infraestrutura de dados veem de um arquivo ".csv", em que no mes
 Possui dentro do algoritmo uma função "def" que analiza o arquivo, redigita as linhas com os dados de maneira em que o programa consiga interpretar, possui também mensgens de avisos para informar o usuário a falta de sucesso com o arquivo.
 
 ### Fluxograma
-![Fluxograma do projeto](https://github.com/Vitor-ALucn/contador_passageiros/blob/main/Algoritmo%20contador%20(1).jpeg)
+![Fluxograma do projeto](https://github.com/Vitor-ALucn/contador_passageiros/blob/main/fluxograma)
 
 Autoria de Vitor Augusto L. ]|[
-Software do fluxograma: lucid.app ]|[
+Software do fluxograma: lCanva.com]|[
 Software da apresentação(.pdf): Canva.com
